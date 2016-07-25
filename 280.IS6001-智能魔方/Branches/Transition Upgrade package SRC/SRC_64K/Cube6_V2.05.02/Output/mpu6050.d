@@ -1,0 +1,15 @@
+..\output\mpu6050.o: ..\User\MotionSensor\MPU6050.c
+..\output\mpu6050.o: ..\User\Driver\IIC\IIC.h
+..\output\mpu6050.o: ..\Core\stm32l1xx.h
+..\output\mpu6050.o: ..\Core\core_cm3.h
+..\output\mpu6050.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\mpu6050.o: ..\Core\core_cmInstr.h
+..\output\mpu6050.o: ..\Core\core_cmFunc.h
+..\output\mpu6050.o: ..\Core\system_stm32l1xx.h
+..\output\mpu6050.o: ..\Lib_code\App\BF_type.h
+..\output\mpu6050.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\mpu6050.o: ..\Lib_code\SysHard\inc\GPIO.h
+..\output\mpu6050.o: ..\User\MotionSensor\MPU6050.h
+..\output\mpu6050.o: ..\Lib_code\SysLib\inc\delay.h
+..\output\mpu6050.o: ..\Lib_code\SysHard\inc\usart.h
+..\output\mpu6050.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
